@@ -1,2 +1,2 @@
 # mensajes-inspiracionales
-Pagina web donde colocare mensajes inspiracionales de distintos autores
+Pagina web de mensajes inspiracionales de distintos autores
