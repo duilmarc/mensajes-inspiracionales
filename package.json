@@ -4,8 +4,13 @@
   "description": "Web de mensajes inspiracionales",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
   },
+  "keywords": [
+    "node.js"
+  ],
   "repository": {
     "type": "git",
     "url": "'https://github.com/duilmarc/mensajes-inspiracionales.git'"
