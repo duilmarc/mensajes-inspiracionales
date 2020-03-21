@@ -15,7 +15,7 @@
     "type": "git",
     "url": "'https://github.com/duilmarc/mensajes-inspiracionales.git'"
   },
-  "author": "Franco Chavez",
+  "author": "Franco Chavez and Juan Jose Lopez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
